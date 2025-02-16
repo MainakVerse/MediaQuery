@@ -9,11 +9,11 @@ const Testimonials = () => {
       <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
         <div className="max-w-[350px] h-auto sm:p-8 p-4 rounded-md mx-auto shadow-[0_2px_22px_-4px_rgba(93,96,127,0.2)] bg-white relative">
           <p className="text-sm text-center text-[#333] leading-relaxed">
-            Codewave Technologies has been a game-changer for our business.
+            Supernova Technologies has been a game-changer for our business.
             Their team of experts seamlessly integrated cutting-edge solutions
             that transformed our operations and gave us a competitive edge in
             the market. We&apos;re thrilled with the results and highly recommend
-            Codewave to any company looking to future-proof their technology.
+            Supernova to any company looking to future-proof their technology.
           </p>
           <div className="flex flex-wrap items-center justify-center mt-8">
             <img
@@ -29,7 +29,7 @@ const Testimonials = () => {
         <div className="max-w-[350px] h-auto sm:p-8 p-4 rounded-md mx-auto shadow-[0_2px_22px_-4px_rgba(93,96,127,0.2)] bg-white relative">
           <p className="text-sm text-center text-[#333] leading-relaxed">
             As a fast-growing startup, we needed a technology partner that could
-            keep up with our evolving needs. Codewave Technologies exceeded our
+            keep up with our evolving needs. Supernova Technologies exceeded our
             expectations, delivering innovative solutions that scaled with our
             business. Their proactive approach and technical expertise have been
             invaluable in driving our success.
@@ -49,7 +49,7 @@ const Testimonials = () => {
         </div>
         <div className="max-w-[350px] h-auto sm:p-8 p-4 rounded-md mx-auto shadow-[0_2px_22px_-4px_rgba(93,96,127,0.2)] bg-white relative">
           <p className="text-sm text-center text-[#333] leading-relaxed">
-            Codewave Technologies has been an indispensable partner in our
+            Supernova Technologies has been an indispensable partner in our
             digital transformation journey. Their deep understanding of our
             industry and commitment to delivering tailored solutions have been
             instrumental in streamlining our processes, enhancing customer
